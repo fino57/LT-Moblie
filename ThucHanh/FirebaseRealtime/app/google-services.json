@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466101178735",
+    "project_id": "authenticationrealtime-8c5b5",
+    "storage_bucket": "authenticationrealtime-8c5b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466101178735:android:7768485f23eae4c15f189a",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpKkGkUA-HfllRO8GpPqOKL3xPPnI2-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

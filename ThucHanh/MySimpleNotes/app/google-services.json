@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280470883543",
+    "project_id": "mysimplenotes-a6200",
+    "storage_bucket": "mysimplenotes-a6200.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280470883543:android:07a3a2d7f98837dd32f492",
+        "android_client_info": {
+          "package_name": "com.example.mysimplenotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQsHJijy9u8hOBq2R3FXVRlh59qszv7kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

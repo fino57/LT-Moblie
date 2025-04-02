@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1081324789469",
+    "firebase_url": "https://tlucontact-cdf6b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tlucontact-cdf6b",
+    "storage_bucket": "tlucontact-cdf6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081324789469:android:656cd063b4d6d97e670534",
+        "android_client_info": {
+          "package_name": "com.example.myfirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczmhPmkCBVHyc9DJ-LvStqGL-QU7wEVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
